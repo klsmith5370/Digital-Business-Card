@@ -4,7 +4,7 @@ A digital business card using React and CSS.
 
 To use as a template:  
 
-1) Fork to your account and open in your editor of choice
+Fork to your account and open in your editor of choice
 
 To quick start:
 

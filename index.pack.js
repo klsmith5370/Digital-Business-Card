@@ -561,7 +561,7 @@ function Info() {
     return _react2.default.createElement(
         "div",
         { className: "info" },
-        _react2.default.createElement("img", { src: "" }),
+        _react2.default.createElement("img", { src: "profile pic.png" }),
         _react2.default.createElement(
             "h2",
             null,
