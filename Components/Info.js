@@ -2,11 +2,11 @@ import React from "react"
 
 export default function Info() {
     return (
-        <div className="info">
-            <img src="profile pic.png" />
+        <header>
+            <img src="profile pic.png" alt="profile picture"/>
             <h2>Kourtney Smith</h2>
             <button>Email Me</button>
             <button>LinkedIn</button>
-        </div>
+        </header>
     )
 }

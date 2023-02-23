@@ -2,7 +2,7 @@ import React from "react"
 
 export default function About() {
     return (
-        <div>
+        <div className="info">
             <h3>About</h3>
             <p>For the last 6 years, I was working for customer service positions for e-commerce companies and while these roles did provide me with a lot of personable and collaborative skills, I wanted to take on a new career path and I found myself looking into software engineering. 
 

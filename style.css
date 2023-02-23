@@ -1,4 +1,17 @@
 * {
     box-sizing: border-box;
+    background-color: #F5F5F5
 }
+
+footer {
+    background-color: #D5D4D8;
+}
+
+img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+
+
 

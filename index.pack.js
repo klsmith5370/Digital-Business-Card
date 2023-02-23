@@ -495,7 +495,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 function About() {
     return _react2.default.createElement(
         "div",
-        null,
+        { className: "info" },
         _react2.default.createElement(
             "h3",
             null,
@@ -529,12 +529,12 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function Footer() {
     return _react2.default.createElement(
-        "div",
-        { className: "footer" },
+        "footer",
+        null,
         _react2.default.createElement(
             "p",
             null,
-            "Insert icons here"
+            "Insert icons"
         )
     );
 }
@@ -559,9 +559,9 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 function Info() {
     return _react2.default.createElement(
-        "div",
-        { className: "info" },
-        _react2.default.createElement("img", { src: "profile pic.png" }),
+        "header",
+        null,
+        _react2.default.createElement("img", { src: "profile pic.png", alt: "profile picture" }),
         _react2.default.createElement(
             "h2",
             null,
@@ -601,7 +601,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 function Interests() {
     return _react2.default.createElement(
         "div",
-        null,
+        { className: "info" },
         _react2.default.createElement(
             "h3",
             null,
