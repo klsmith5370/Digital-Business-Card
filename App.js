@@ -9,8 +9,8 @@ export default function App() {
         <div className="container">
             <Info />
             <About />
-            <Interests />
-            <Footer />
+            {/* <Interests /> */}
+            {/* <Footer /> */}
         </div>
     )
 }
