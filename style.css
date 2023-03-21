@@ -2,8 +2,8 @@
     box-sizing: border-box;
     background-color: #F5F5F5;
     font-family: "Inter", sans-serif;
-    background: #23252C;
-    color: #DCDCDC;
+    background: #EEE0CB;
+    color: #000000;
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -36,7 +36,7 @@ img {
     font-size: 25px;
     line-height: 30px;
     text-align: center;
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .title {
