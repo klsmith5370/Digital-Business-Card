@@ -585,13 +585,18 @@ function Info() {
             "Kourtney Smith"
         ),
         _react2.default.createElement(
+            "h3",
+            { className: "title" },
+            "Fullstack Software Engineer"
+        ),
+        _react2.default.createElement(
             "button",
             { className: "email-button" },
             "Email Me"
         ),
         _react2.default.createElement(
-            "button",
-            { className: "LinkedIn-button" },
+            "a",
+            { href: "https://www.linkedin.com/in/kourtneysmith5370/", className: "LinkedIn-button" },
             "LinkedIn"
         )
     );
