@@ -68,18 +68,13 @@ img {
     height: 34px;
     left: 283px;
     top: 468px;
-    position: absolute;
-    width: 115px;
-    height: 34px;
-    left: 283px;
-    top: 468px;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
 }
 
-.email-button {
+.github-button {
     display: flex;
     flex-direction: row;
     justify-content: center;

@@ -630,13 +630,21 @@ function Info() {
         ),
         _react2.default.createElement(
             "button",
-            { className: "email-button" },
-            "Email Me"
+            null,
+            _react2.default.createElement(
+                "a",
+                { href: "https://github.com/klsmith5370", className: "github-button" },
+                "GitHub"
+            )
         ),
         _react2.default.createElement(
-            "a",
-            { href: "https://www.linkedin.com/in/kourtneysmith5370/", className: "LinkedIn-button" },
-            "LinkedIn"
+            "button",
+            null,
+            _react2.default.createElement(
+                "a",
+                { href: "https://www.linkedin.com/in/kourtneysmith5370/", className: "LinkedIn-button" },
+                "LinkedIn"
+            )
         )
     );
 }
