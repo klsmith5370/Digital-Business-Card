@@ -9,10 +9,13 @@ export default function About() {
                 <ul>JavaScript</ul>
                 <ul>React</ul>
                 <ul>Redux</ul>
+                <ul>HTML & CSS</ul>
                 <h3>Backend:</h3>
                 <ul>Express</ul>
                 <ul>Sequelize</ul>
                 <ul>postgreSQL</ul>
+                <ul>MongoDB</ul>
+                <ul>GraphQL</ul>
             </ul>
         </div>
     )
